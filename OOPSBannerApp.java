@@ -4,5 +4,14 @@ public class OOPSBannerApp{
         //UC1
         System.out.println("OOPS");
 
+                    //UC2
+            System.out.println("  *** " + "   ***" + "   ***** "  +   "  ***** ");
+            System.out.println(" **  ** " +"**   **" + " **  **"  +   "  ** ");
+            System.out.println("**    **" +"**    **" + "**   **" +  " ** ");
+            System.out.println("**     **" +"**   **" + "**  **"  +    " *****" );
+            System.out.println("**     **" +"**   **" + "**"      +    "      **" );
+            System.out.println(" **   ** " +"**  ** " + "** "     +   " ** **");
+            System.out.println("   *** " +    "***" +  " ** "     + "  ***** ");
+
     }
 }
